@@ -12,11 +12,9 @@
 • Logic Synthesis & Static Timing Analysis (STA)  
 • Design Rule Checks — CDC, RDC, and Linting  
 
-
 ## 💡 Interests
-- VLSI and SoC Design (RTL to GDSII)
+- Low-Power ASIC and SoC Design ML Workloads (RTL to GDSII)
 - Processor Microarchitecture and ISA Design
-- Low-Power ASIC Design for ML Workloads
 
 ## 🛠️ Tools & Languages
 - Verilog/SystemVerilog, C/C++, MATLAB
@@ -25,14 +23,11 @@
 - VS Code, ModelSim, GTKWave
 - Git, CMake, Make, Shell scripting
 
-
 ## 📚 Learning Now
 - Advanced Microarchitecture Design and Verification
 - UVM, Formal Methods, and Equivalence Checking
 - System-Level Simulation and Co-Design
 - DevOps and Toolchain Automation for Hardware Projects
-
-
 
 ## 📊 GitHub Stats & Contributions
 
