@@ -2,7 +2,7 @@
  **Graduate student in Computer Engineering** with expertise in SoC and ASIC design for high-performance machine learning acceleration. Strong focus on RTL development, RISC-based processor architectures for SoC integration, and performance-optimized hardware implementations.
 
 💡 **Interests**   
-- Low-Power ASIC and SoC Design ML Workloads (RTL to GDSII)
+- Performance-Centric ASIC/SoC Design Targeting Machine Learning Workloads 
 - Processor Microarchitecture Integration
 
 🛠️ **Skilled In:**  
