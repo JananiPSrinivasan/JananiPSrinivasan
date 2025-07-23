@@ -1,10 +1,9 @@
 # 👋 Hi there, I'm Janani! [![Email](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jsrinivasan4020@sdsu.edu) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/janani-priyadharshini-srinivasan-ba26751ab/)
  **Graduate student in Computer Engineering** with expertise in SoC and ASIC design for high-performance machine learning acceleration. Strong focus on RTL development, RISC-based processor architectures for SoC integration, and performance-optimized hardware implementations.
 
-💡 **Interests** 
-- Hardware-Software Co-Design  
+💡 **Interests**   
 - Low-Power ASIC and SoC Design ML Workloads (RTL to GDSII)
-- Processor Microarchitecture and ISA Design
+- Processor Microarchitecture Integration
 
 🛠️ **Skilled In:**  
 - RTL Design (Verilog/SystemVerilog)
